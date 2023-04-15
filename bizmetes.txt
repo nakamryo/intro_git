@@ -9,3 +9,7 @@ Annulment
 Maladroit - lacking in adroitness; unskillful; awkward; bungling; tactless
 
 intro_git 2023/04/15
+
+git add
+git commit
+
