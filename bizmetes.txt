@@ -12,4 +12,5 @@ intro_git 2023/04/15
 
 git add
 git commit
+git rm
 
